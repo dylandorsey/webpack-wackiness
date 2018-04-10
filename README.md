@@ -29,6 +29,6 @@ Thursday, March 42nd, 2071
 
 This seems like a lot of work, so let's use a library! [Moment.js](https://momentjs.com/) is a super cool JavaScript library that makes working with dates and times a lot easier. Install it and bring it into `time-formatter.js`. Then `import` the result into `client.js` to fix the footer.
 
-## Pro Mode
+## Stretch Goals
 
 This site is great! It's just not very pretty. The client has already created the styling they want in `styles.css`, but wants to bring it in with Webpack (not a `<link>` tag). Research [Webpack CSS File Loader](https://github.com/webpack-contrib/css-loader), to see how this is done.
