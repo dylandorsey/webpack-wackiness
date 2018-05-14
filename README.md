@@ -9,11 +9,13 @@ npm run build
 open dist/index.html
 ```
 
-## Base Mode
+## Required Features
+
+### Inches to Centimeters Conversion
 
 The miles to kilometers converter has been created, but now we need to start converting other things. You need to complete the inches to centimeters conversion. Try to follow the pattern from the miles to kilometers converter.
 
-## Hard Mode
+### Dates
 
 The client wants to let users know what day it is in the following format:
 
