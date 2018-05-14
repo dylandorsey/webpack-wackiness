@@ -26,7 +26,7 @@ The client wants to let users know what day it is in the following format:
 something like:
 
 ```
-Thursday, March 42nd, 2071
+Thursday, March 2nd, 2071
 ```
 
 This seems like a lot of work, so let's use a library! [Moment.js](https://momentjs.com/) is a super cool JavaScript library that makes working with dates and times a lot easier. Install it and bring it into `time-formatter.js`. Then `import` the result into `client.js` to fix the footer.
