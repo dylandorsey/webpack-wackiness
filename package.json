@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "moment": "^2.22.1",
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.11"
   },
